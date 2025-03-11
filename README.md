@@ -1,4 +1,4 @@
-# 📚 Diário de Engenharia de Software - {Nome do Aluno}
+# 📚 Diário de Engenharia de Software - Thayrine Santos
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
 (Escreva aqui um breve resumo sobre a importância das metodologias no desenvolvimento de software.)
