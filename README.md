@@ -27,15 +27,38 @@ Esse modelo se divide em duas etapas principais:
 a cada novo ciclo esse modelo testa possiveis erros que podem vir a acontecer, a cada volta no espiral pode ser baseada em um modelo diferente e pode ter diferentes atividades. Ou seja a cada repetição do ciclo é refeita a analise ate que nao existem grandes riscos na engenharia de softwere. 
 No modelo espiral em cada repetição do ciclo deve conter no projeto:
 
-1- determinação dos objetivos
-2- avaliação e redução de riscos 
-3- desenvolvimento e validação
-4- planejamento da proxima interação
+*1- determinação dos objetivos
+*2- avaliação e redução de riscos 
+*3- desenvolvimento e validação
+*4- planejamento da proxima interação
 
 
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
-(Explique os valores e princípios do Manifesto Ágil.)
+OS 12 principios do manifesto agil:
+*1- satisfação do cliente ( para isso é oferecida entrega adiantada e continua do software de valor)
+*2-mudança em favor da vantagem competitivas ( a fim de favorecer vantagens competitiva)
+*3- prazos curtos ( o softwere em funcionamento deve ser entregue em prazos curtos e com frequencia.)
+*4- trabalho em conjunto ( a equipe responsavel pelos negocios e a equipe de desenvolvimento devem trabalhar sempre em conjunto durante todas as fases do projeto.)
+*5- ambientação e suporte ( construir projetos com o cliente, oferecendo a eles o suporte e o ambiente necessario, para confiar no seu trabalho.)
+*6- conversa face a face ( o metodo mais eficiente para transmissao de informações, seja elas internas ou externas.)
+*7- funcionalidades ( o softwere funcional é a medida primaria de progresso.)
+*8- ambiente de sustentabilidade ( projetos ageis que peomovem um ambiente susteltavel, com patrocinadores, desenvolvedores e usuarios.)
+*9- padroes altos de tecnologia e design ( a excelencia tecnica e um bom design, aumenta a agilidade.
+*10- simplicidade ( é necesssario dominar a arte de maximizar a quantidade de trabalho nao realizado.)
+*11- autonomia ( as melhores arquiteturas, requisitos e designs emergem de times auto organizaveis.)
+*12-  reflexões para otimizacões ( o time deve refletir em intervalos regulares formas de como ficar mais efetivo. e entao devem se ajustar e otimizar seu comportamento de acordo.)
+
+
+Valores do manifesto agil
+processos, ferramentas, documentação, contratos e planos 
+*1- individos e interações valem mais que processos e ferramentas.
+*2- softwere em funcionamento é melhor do que documentação abrangente 
+*3- colaborações com o cliente devem estar acima de negociações de contrato
+*4- responder as mudanças em vez de seguir um plano
+
+
+
 
 ## 🏆 Scrum  
 ### 📅 Sprints  
