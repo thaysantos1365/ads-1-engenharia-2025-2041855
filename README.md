@@ -5,8 +5,21 @@
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
-(Explique brevemente o modelo Cascata e suas características.)
-
+O modelo cascata, é realizado de forma sequencial e sistematica, cada fase deve ser completa antes que a proxima fase se inicie.
+O modelo cascata foi uma das primeiras abordagem usadas na engenharia de softwere.
+     #fases do modelo cascata
+*requisitos
+( levantando todos os requisitos do sistema, eles sao capturados, documentados e é criado um documento de especificações e requisitos.)
+* projeto
+( os requisitos sao estudados e elaborados, que vai ajudar a definir a arquitetura geral do sistema.)
+* implementação
+( é a fase da codificação e aonde o softwere é desenvolvido.)
+* testes
+( tudo o que foi desenvolvido nas fases anteriores vai ser testado, para ver se esta tudo funcional com o que foi requisitado, e se houver erros eles tem que ser resolvidos nessa fase.)
+*integração
+( o sistema é implantado pra que o usuario possa utilizar.)
+* manutenção
+( serve para fazer aprimoração do produto, criar versões melhores. e tambem para se manter funcional no ambiente do cliente.)
 ### 🌐 Espiral  
 (Explique o modelo Espiral e como ele funciona.)
 
