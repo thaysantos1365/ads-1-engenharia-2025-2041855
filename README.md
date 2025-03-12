@@ -7,7 +7,9 @@
 ### 🛠️ Cascata  
 O modelo cascata, é realizado de forma sequencial e sistematica, cada fase deve ser completa antes que a proxima fase se inicie.
 O modelo cascata foi uma das primeiras abordagem usadas na engenharia de softwere.
-     #fases do modelo cascata
+
+
+     fases do modelo cascata
 *requisitos
 ( levantando todos os requisitos do sistema, eles sao capturados, documentados e é criado um documento de especificações e requisitos.)
 * projeto
@@ -21,7 +23,15 @@ O modelo cascata foi uma das primeiras abordagem usadas na engenharia de softwer
 * manutenção
 ( serve para fazer aprimoração do produto, criar versões melhores. e tambem para se manter funcional no ambiente do cliente.)
 ### 🌐 Espiral  
-(Explique o modelo Espiral e como ele funciona.)
+Esse modelo se divide em duas etapas principais:
+a cada novo ciclo esse modelo testa possiveis erros que podem vir a acontecer, a cada volta no espiral pode ser baseada em um modelo diferente e pode ter diferentes atividades. Ou seja a cada repetição do ciclo é refeita a analise ate que nao existem grandes riscos na engenharia de softwere. 
+No modelo espiral em cada repetição do ciclo deve conter no projeto:
+
+1- determinação dos objetivos
+2- avaliação e redução de riscos 
+3- desenvolvimento e validação
+4- planejamento da proxima interação
+
 
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
