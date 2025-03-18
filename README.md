@@ -62,20 +62,30 @@ processos, ferramentas, documentação, contratos e planos
 
 ## 🏆 Scrum  
 ### 📅 Sprints  
-(O que são sprints e como funcionam no Scrum?)
-
+(Sprints são períodos curtos e bem definidos, geralmente de duas a quatro semanas, em que uma equipe Scrum trabalha em tarefas específicas para entregar partes incrementais do projeto. Ao final de cada sprint, há uma entrega funcional que pode ser revisada e avaliada.)
 ### 💬 Cerimônias  
-(Descreva as principais cerimônias do Scrum.)
+Reunião de Planejamento (Realizada no início de cada sprint, é onde a equipe define quais tarefas serão realizadas durante o período e cria o plano de trabalho.)
 
+Reuniões Diárias (São encontros rápidos e diários onde os membros compartilham o progresso, dificuldades e próximas ações.)
+
+Revisão da Sprint (Acontece ao final de cada sprint, e nela a equipe apresenta o resultado e discute os próximos passos.)
+
+Retrospectiva (Esse encontro tem como objetivo identificar melhorias nos processos e dinâmicas para otimizar o trabalho futuro.)
 ## 🎯 Kanban  
-(Explique o funcionamento do Kanban e sua aplicação.)
-
+(Kanban é um método visual de gestão de tarefas que utiliza cartões, listas e quadros para acompanhar o fluxo de trabalho. Cada tarefa passa por colunas que representam estágios, como “A fazer”, “Em andamento” e “Concluído”. É ideal para melhorar a eficiência, evitar sobrecarga e manter o foco na entrega contínua.)
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+Comunicação (Promove a colaboração constante entre os membros da equipe, facilitando trocas de ideias e eliminando barreiras.)
+
+Simplicidade (Foca em soluções simples e práticas para evitar desperdícios.)
+
+Feedback (Proporciona ciclos rápidos de feedback, tanto do cliente quanto dos testes, para garantir a qualidade.)
+
+Coragem (Estimula a ousadia de experimentar mudanças e soluções inovadoras.)
+
+Respeito (Prioriza um ambiente de trabalho harmonioso e respeitoso, onde todos são valorizados.)
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
-
+(Essas plataformas facilitam o controle de versões do código, a colaboração entre desenvolvedores e a organização de projetos. Permitem criar branches, fazer commits, revisar alterações e integrar ao repositório principal.)
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+(O Jira é mais voltado para equipes ágeis e oferece recursos robustos para planejamento de sprints, acompanhamento de problemas e geração de relatórios. O Trello é mais visual e intuitivo, ótimo para criar quadros com tarefas organizadas por status e prioridades.)
