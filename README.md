@@ -89,3 +89,14 @@ Respeito (Prioriza um ambiente de trabalho harmonioso e respeitoso, onde todos s
 (Essas plataformas facilitam o controle de versões do código, a colaboração entre desenvolvedores e a organização de projetos. Permitem criar branches, fazer commits, revisar alterações e integrar ao repositório principal.)
 ### 🎮 Jira / Trello  
 (O Jira é mais voltado para equipes ágeis e oferece recursos robustos para planejamento de sprints, acompanhamento de problemas e geração de relatórios. O Trello é mais visual e intuitivo, ótimo para criar quadros com tarefas organizadas por status e prioridades.)
+
+
+
+https://trello.com/invite/b/67da04bea9d37330356e4d8f/ATTI30289eb695bbb8b4cf9fc48ef1fe5cd95DD86BC6/engenharia-de-software
+![image](https://github.com/user-attachments/assets/a0210fa1-d4fd-43d7-aef7-c899f007a48b)
+
+
+
+
+
+
